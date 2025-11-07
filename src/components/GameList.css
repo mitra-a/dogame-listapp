@@ -9,7 +9,7 @@
     --chip-active-text: #fff;
     --border: rgba(255, 255, 255, 0.08);
     --radius: 16px;
-    --mobile-width: 420px; /* batas lebar di desktop */
+    --mobile-width: 1200px; /* batas lebar di desktop */
 }
 
 html,
@@ -141,7 +141,7 @@ header {
         0.2s background;
 }
 .chip[data-active="true"] {
-    background: var(--chip-active);
+    background: linear-gradient(180deg, #081E53 0%, #071030 100%);
     border-color: transparent;
     color: var(--chip-active-text);
     box-shadow: 0 6px 16px rgba(40, 49, 255, 0.35);
@@ -153,8 +153,22 @@ header {
 /* Grid/cards */
 .list {
     display: grid;
-    gap: 12px;
+    grid-template-columns: 1fr;
+    gap: 1rem;
 }
+
+@media (min-width: 768px) {
+    .list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .list {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
 .card {
     background: linear-gradient(
             180deg,
@@ -262,6 +276,181 @@ header {
     display: grid;
     place-items: center;
     color: #ff6b6b;
+}
+
+/* Info button styling */
+.info-btn {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid var(--border);
+    border-radius: 30px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    margin-top: 8px;
+    font-style: italic;
+    padding: 5px 10px;
+}
+
+.info-btn:hover {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.2);
+    transform: scale(1.05);
+}
+
+.info-btn:active {
+    transform: scale(0.95);
+}
+
+/* Popup Modal Styles */
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(11, 12, 16, 0.8);
+    backdrop-filter: blur(8px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.popup-content {
+    background: linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.05),
+        rgba(255, 255, 255, 0.02)
+    ), var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    width: 100%;
+    max-width: 400px;
+    max-height: 80vh;
+    overflow: hidden;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+    animation: popupFadeIn 0.2s ease-out;
+}
+
+@keyframes popupFadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.95) translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+    }
+}
+
+.popup-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border);
+}
+
+.popup-header h3 {
+    margin: 0;
+    font-size: 16px;
+    color: var(--text);
+    line-height: 1.2;
+}
+
+.popup-close {
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 1;
+    transition: all 0.2s ease;
+}
+
+.popup-close:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--text);
+}
+
+.popup-body {
+    padding: 20px;
+    overflow-y: auto;
+    max-height: calc(80vh - 80px);
+}
+
+.popup-code {
+    font-size: 12px;
+    color: var(--muted);
+    margin: 0 0 16px 0;
+    font-family: 'Courier New', monospace;
+    background: rgba(255, 255, 255, 0.05);
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+.popup-body h4 {
+    margin: 0 0 12px 0;
+    font-size: 14px;
+    color: var(--text);
+}
+
+.room-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.room-item {
+    background: rgba(110, 231, 183, 0.1);
+    border: 1px solid rgba(110, 231, 183, 0.2);
+    border-radius: 8px;
+    padding: 8px 12px;
+    margin-bottom: 6px;
+    color: var(--acc);
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.room-item:before {
+    content: "📍";
+    font-size: 12px;
+}
+
+.room-item:last-child {
+    margin-bottom: 0;
+}
+
+/* Mobile responsiveness for popup */
+@media (max-width: 480px) {
+    .popup-overlay {
+        padding: 16px;
+    }
+    
+    .popup-content {
+        max-width: 100%;
+    }
+    
+    .popup-header {
+        padding: 12px 16px;
+    }
+    
+    .popup-body {
+        padding: 16px;
+    }
 }
 
 /* Sticky header on scroll (opsional) */

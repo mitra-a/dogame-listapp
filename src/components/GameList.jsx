@@ -17,6 +17,7 @@ export default function GameList() {
 
     const [search, setSearch] = useState("");
     const [category, setCategory] = useState("all");
+    const [popupData, setPopupData] = useState(null);
 
     const FILTER_GAMES = function () {
         let gamesWithRooms = GAMES;
@@ -52,6 +53,14 @@ export default function GameList() {
 
     const handleCategoryChange = (categoryName) => {
         setCategory(categoryName);
+    };
+
+    const handleShowRooms = (game) => {
+        setPopupData(game);
+    };
+
+    const handleClosePopup = () => {
+        setPopupData(null);
     };
 
     return (
@@ -134,15 +143,58 @@ export default function GameList() {
                         data-title={game.name}
                     >
                         <div className="content">
-                            <h3>{game.name}</h3>
+                            <div
+                                style={{
+                                    display: "flex",
+                                    alignItems: "center",
+                                }}
+                            >
+                                <h3>{game.name}</h3>{" "}
+                                <button
+                                    className="info-btn"
+                                    onClick={() => handleShowRooms(game)}
+                                    aria-label={`Lihat ketersediaan ${game.name}`}
+                                >
+                                    Info
+                                </button>
+                            </div>
                             <p className="game-code">Code: {game.code}</p>
-                            <p className="game-rooms">
-                                Tersedia di: {game.rooms.join(", ")}
-                            </p>
                         </div>
                     </article>
                 ))}
             </section>
+
+            {/* Popup Modal */}
+            {popupData && (
+                <div className="popup-overlay" onClick={handleClosePopup}>
+                    <div
+                        className="popup-content"
+                        onClick={(e) => e.stopPropagation()}
+                    >
+                        <div className="popup-header">
+                            <h3>{popupData.name}</h3>
+                            <button
+                                className="popup-close"
+                                onClick={handleClosePopup}
+                                aria-label="Tutup popup"
+                            >
+                                ✕
+                            </button>
+                        </div>
+                        <div className="popup-body">
+                            <p className="popup-code">Code: {popupData.code}</p>
+                            <h4>Tersedia di ruangan:</h4>
+                            <ul className="room-list">
+                                {popupData.rooms.map((room, idx) => (
+                                    <li key={idx} className="room-item">
+                                        {room}
+                                    </li>
+                                ))}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            )}
         </div>
     );
 }
