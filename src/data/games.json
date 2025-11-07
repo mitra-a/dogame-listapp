@@ -1,0 +1,1695 @@
+{
+  "games": [
+    {
+      "name": "A Way Out",
+      "code": "AWO"
+    },
+    {
+      "name": "Ace Combat 7: Skies Unknown",
+      "code": "AC7SU"
+    },
+    {
+      "name": "Angry Birds Vr: Isle of Pigs",
+      "code": "ABVRIOP"
+    },
+    {
+      "name": "Apex Legends",
+      "code": "APEX"
+    },
+    {
+      "name": "Arizona Sunshine 2",
+      "code": "ARIZONAS2"
+    },
+    {
+      "name": "Arizona Sunshine II",
+      "code": "ASII"
+    },
+    {
+      "name": "Asphalt",
+      "code": "ASPHALT"
+    },
+    {
+      "name": "Asphalt Legends",
+      "code": "ASPHALTLEGENDS"
+    },
+    {
+      "name": "Assassin'S Creed Odyssey",
+      "code": "ACODYSSEY"
+    },
+    {
+      "name": "Assassin'S Creed Valhalla",
+      "code": "ACVALHALLA"
+    },
+    {
+      "name": "Astro Bot",
+      "code": "ASTROBOT"
+    },
+    {
+      "name": "Astro'S Playroom",
+      "code": "ASTROSPLAYROOM"
+    },
+    {
+      "name": "Battlefield 2024",
+      "code": "BF2024"
+    },
+    {
+      "name": "Battlefield 4",
+      "code": "BF4"
+    },
+    {
+      "name": "Battlefield V",
+      "code": "BFV"
+    },
+    {
+      "name": "Beat Saber",
+      "code": "BEATSABER"
+    },
+    {
+      "name": "Before Your Eyes",
+      "code": "BYE"
+    },
+    {
+      "name": "Black Myth: Wukong",
+      "code": "BMWUKONG"
+    },
+    {
+      "name": "Bloodborne",
+      "code": "BLOODBORNE"
+    },
+    {
+      "name": "Boomerang Fu",
+      "code": "BOOMERANGFU"
+    },
+    {
+      "name": "Bully",
+      "code": "BULLY"
+    },
+    {
+      "name": "Call of Duty the Haunting",
+      "code": "CDH"
+    },
+    {
+      "name": "Call of Duty: Black Ops 6",
+      "code": "CODBO6"
+    },
+    {
+      "name": "Call of Duty: Black Ops IIi",
+      "code": "CODBO3"
+    },
+    {
+      "name": "Call of Duty: Ghosts",
+      "code": "CODGHOSTS"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare Remastered",
+      "code": "CODMWR"
+    },
+    {
+      "name": "Call of Duty: the Haunting",
+      "code": "CDH"
+    },
+    {
+      "name": "Captain Tsubasa Rise of New Champions",
+      "code": "TSUBASA"
+    },
+    {
+      "name": "Captain Tsubasa: Rise of New Champions",
+      "code": "TSUBASA"
+    },
+    {
+      "name": "Carnival Games",
+      "code": "CARNIVALGAMES"
+    },
+    {
+      "name": "Carnival Games Vr",
+      "code": "CGV"
+    },
+    {
+      "name": "Cat Quest II",
+      "code": "CQII"
+    },
+    {
+      "name": "Chess Royal",
+      "code": "CHESSROYAL"
+    },
+    {
+      "name": "Cleansheet",
+      "code": "CLEANSHEET"
+    },
+    {
+      "name": "College Football 25",
+      "code": "CFOOTBALL25"
+    },
+    {
+      "name": "Crash Team Racing Nitro-Fueled",
+      "code": "CTRNF"
+    },
+    {
+      "name": "Crash Team Racing Nitro-Fueled (Crash Team Racing Nitro-Fueled)",
+      "code": "CTRNF(TRNF"
+    },
+    {
+      "name": "Creed Rise To Glory",
+      "code": "CREEDRTG"
+    },
+    {
+      "name": "Creed Rise To Glory Championship Edition",
+      "code": "CREEDRTGCE"
+    },
+    {
+      "name": "Creed: Rise To Glory - Championship Edition",
+      "code": "CREEDRTGCE"
+    },
+    {
+      "name": "Crossfire Sierra Squad",
+      "code": "CROSSFIRESS"
+    },
+    {
+      "name": "Crossfire: Sierra Squad",
+      "code": "CROSSFIRESS"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "code": "CYBERPUNK2077"
+    },
+    {
+      "name": "Days Gone",
+      "code": "DAYSGONE"
+    },
+    {
+      "name": "Dead Space",
+      "code": "DEADSPACE"
+    },
+    {
+      "name": "Delta Force",
+      "code": "DELTAFORCE"
+    },
+    {
+      "name": "Devil May Cry 5",
+      "code": "DMC5"
+    },
+    {
+      "name": "Dirt 5",
+      "code": "DIRT5"
+    },
+    {
+      "name": "Dirt Rally 2.0",
+      "code": "DIRTR2"
+    },
+    {
+      "name": "Disney Pixar Cars 3: Driven To Win",
+      "code": "DPC3DW"
+    },
+    {
+      "name": "Dogfighter",
+      "code": "DOGFIGHTER"
+    },
+    {
+      "name": "Dragon Ball Z: Kakarot",
+      "code": "DBZKAKAROT"
+    },
+    {
+      "name": "Dynasty Warriors 9",
+      "code": "DW9"
+    },
+    {
+      "name": "Dynasty Warriors: Origins",
+      "code": "DWORIGINS"
+    },
+    {
+      "name": "Ea Sports Ea Sports Fc 25",
+      "code": "ESESF25"
+    },
+    {
+      "name": "Ea Sports Ea Sports Fc 26",
+      "code": "ESESF26"
+    },
+    {
+      "name": "Ea Sports Ea Sports Ufc 4",
+      "code": "ESESU4"
+    },
+    {
+      "name": "Ea Sports Fc 24",
+      "code": "FC24"
+    },
+    {
+      "name": "Ea Sports Fc 25",
+      "code": "FC25"
+    },
+    {
+      "name": "Ea Sports Fc 26",
+      "code": "FC26"
+    },
+    {
+      "name": "Ea Sports Ufc 4",
+      "code": "UFC4"
+    },
+    {
+      "name": "Ea Sports Ufc 5",
+      "code": "UFC5"
+    },
+    {
+      "name": "Efootball",
+      "code": "EFOOTBALL"
+    },
+    {
+      "name": "Elden Ring",
+      "code": "ELDENRING"
+    },
+    {
+      "name": "Enlisted",
+      "code": "ENLISTED"
+    },
+    {
+      "name": "F1 24",
+      "code": "F124"
+    },
+    {
+      "name": "Far Cry 6",
+      "code": "FARCRY6"
+    },
+    {
+      "name": "Figment",
+      "code": "FIGMENT"
+    },
+    {
+      "name": "Figment 2: Creed Valley",
+      "code": "FIGMENT2"
+    },
+    {
+      "name": "Final Fantasy Xvi",
+      "code": "FFXVI"
+    },
+    {
+      "name": "Fortnite",
+      "code": "FORTNITE"
+    },
+    {
+      "name": "Fragpunk",
+      "code": "FRAGPUNK"
+    },
+    {
+      "name": "Gear.Club Unlimited 2 - Ultimate Edition",
+      "code": "GEARCLUB2UE"
+    },
+    {
+      "name": "Genshin Impact",
+      "code": "GENSHIN"
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "code": "GOT"
+    },
+    {
+      "name": "Ghost of Yotei",
+      "code": "GHOSTOFYOTEI"
+    },
+    {
+      "name": "God of War",
+      "code": "GOW"
+    },
+    {
+      "name": "God of War Ragnarok",
+      "code": "GOWR"
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "code": "GTAV"
+    },
+    {
+      "name": "Gravel",
+      "code": "GRAVEL"
+    },
+    {
+      "name": "Grid Legends",
+      "code": "GRIDLEGENDS"
+    },
+    {
+      "name": "Guitar Hero",
+      "code": "GUITARHERO"
+    },
+    {
+      "name": "Hello Neighbor",
+      "code": "HELLONEIGHBOR"
+    },
+    {
+      "name": "Hello Neighbor 2",
+      "code": "HELLONEIGHBOR2"
+    },
+    {
+      "name": "Hello Neighbor: Search And Rescue",
+      "code": "HNSEARCHRESCUE"
+    },
+    {
+      "name": "Hitman 3",
+      "code": "HITMAN3"
+    },
+    {
+      "name": "Hogwarts Legacy",
+      "code": "HOGWARTSLEGACY"
+    },
+    {
+      "name": "Horizon Call of the Mountain",
+      "code": "HORIZONCOTM"
+    },
+    {
+      "name": "Horizon Zero Dawn",
+      "code": "HZD"
+    },
+    {
+      "name": "Horror Adventure Vr",
+      "code": "HORRORADVR"
+    },
+    {
+      "name": "Hot Wheels Unleashed",
+      "code": "HWU"
+    },
+    {
+      "name": "Hot Wheels Unleashed 2: Turbocharged",
+      "code": "HWU2"
+    },
+    {
+      "name": "How 2 Escape",
+      "code": "HOW2ESCAPE"
+    },
+    {
+      "name": "Immortals of Aveum",
+      "code": "IMMORTALS"
+    },
+    {
+      "name": "Injustice 2",
+      "code": "INJUSTICE2"
+    },
+    {
+      "name": "Injustice 2 Legendary Edition",
+      "code": "INJUSTICE2LE"
+    },
+    {
+      "name": "It Takes Two",
+      "code": "ITT"
+    },
+    {
+      "name": "Jurassic World Evolution 2",
+      "code": "JWE2"
+    },
+    {
+      "name": "Kill It With Fire",
+      "code": "KIWF"
+    },
+    {
+      "name": "Lego Marvel'S Avengers",
+      "code": "LEGOMARVELAV"
+    },
+    {
+      "name": "Life Is Strange 2",
+      "code": "LIS2"
+    },
+    {
+      "name": "Little Nightmares",
+      "code": "LITTLENIGHTMARES"
+    },
+    {
+      "name": "Little Nightmares II",
+      "code": "LNII"
+    },
+    {
+      "name": "Madden Nfl 25",
+      "code": "MADDEN25"
+    },
+    {
+      "name": "Madison Vr",
+      "code": "MADISONVR"
+    },
+    {
+      "name": "Marvel'S Spider-Man",
+      "code": "SPIDERMAN"
+    },
+    {
+      "name": "Marvel'S Spider-Man 2",
+      "code": "SPIDERMAN2"
+    },
+    {
+      "name": "Marvel'S Spider-Man Miles Morales",
+      "code": "SPIDERMANMM"
+    },
+    {
+      "name": "Marvel'S Spider-Man: Miles Morales",
+      "code": "SPIDERMANMM"
+    },
+    {
+      "name": "Minecraft",
+      "code": "MINECRAFT"
+    },
+    {
+      "name": "Monopoly Madness",
+      "code": "MONOPOLYMADNESS"
+    },
+    {
+      "name": "Mortal Kombat 1",
+      "code": "MK1"
+    },
+    {
+      "name": "Mortal Kombat 11",
+      "code": "MK11"
+    },
+    {
+      "name": "Mortal Kombat 11 Ultimate",
+      "code": "MK11U"
+    },
+    {
+      "name": "Mortal Kombat Xl",
+      "code": "MKXL"
+    },
+    {
+      "name": "Motogp 23",
+      "code": "M23"
+    },
+    {
+      "name": "Motogp 24",
+      "code": "M24"
+    },
+    {
+      "name": "Motogp 25",
+      "code": "M25"
+    },
+    {
+      "name": "Moving Out",
+      "code": "MOVINGOUT"
+    },
+    {
+      "name": "Moving Out 2",
+      "code": "MOVINGOUT2"
+    },
+    {
+      "name": "Mx Vs Atv Legends",
+      "code": "MXATVLEGENDS"
+    },
+    {
+      "name": "Mxgp3",
+      "code": "MXGP3"
+    },
+    {
+      "name": "Naruto Shippuden: Ultimate Ninja Storm 4",
+      "code": "NSUNS4"
+    },
+    {
+      "name": "Naruto X Boruto Ultimate Ninja Storm Connections",
+      "code": "NXBUNSC"
+    },
+    {
+      "name": "Nba 2K Playgrounds 2",
+      "code": "NBA2KPG2"
+    },
+    {
+      "name": "Nba 2K24",
+      "code": "NBA2K24"
+    },
+    {
+      "name": "Nba 2K25",
+      "code": "NBA2K25"
+    },
+    {
+      "name": "Nba 2K26",
+      "code": "NBA2K26"
+    },
+    {
+      "name": "Need For Speed",
+      "code": "NFS"
+    },
+    {
+      "name": "Need For Speed Heat",
+      "code": "NFSHEAT"
+    },
+    {
+      "name": "Need For Speed Unbound",
+      "code": "NFSUNBOUND"
+    },
+    {
+      "name": "Nhl 24",
+      "code": "NHL24"
+    },
+    {
+      "name": "Nhl 25",
+      "code": "NHL25"
+    },
+    {
+      "name": "Off the Grid",
+      "code": "OFFTHEGRID"
+    },
+    {
+      "name": "Operation Serpens",
+      "code": "OPERATIONSERPENS"
+    },
+    {
+      "name": "Overcooked! 2",
+      "code": "OC2"
+    },
+    {
+      "name": "Overcooked! All You Can Eat",
+      "code": "OCAYCE"
+    },
+    {
+      "name": "Pes 2021",
+      "code": "PES2021"
+    },
+    {
+      "name": "Pes 2026",
+      "code": "PES2026"
+    },
+    {
+      "name": "Plant Vs Zombie Garden Warfare 2",
+      "code": "PVZGW2"
+    },
+    {
+      "name": "Red Dead Redemption",
+      "code": "RDR"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "code": "RDR2"
+    },
+    {
+      "name": "Resident Evil 4",
+      "code": "RE4"
+    },
+    {
+      "name": "Resident Evil 6",
+      "code": "RE6"
+    },
+    {
+      "name": "Resident Evil 7: Biohazard",
+      "code": "RE7BH"
+    },
+    {
+      "name": "Resident Evil Village",
+      "code": "REVILLAGE"
+    },
+    {
+      "name": "Riders Republic",
+      "code": "RIDERSREPUBLIC"
+    },
+    {
+      "name": "Roblox",
+      "code": "ROBLOX"
+    },
+    {
+      "name": "Rocket League",
+      "code": "ROCKETLEAGUE"
+    },
+    {
+      "name": "Silent Hill: the Short Message",
+      "code": "SILENTHILLTSM"
+    },
+    {
+      "name": "Sleeping Dogs",
+      "code": "SLEEPINGDOGS"
+    },
+    {
+      "name": "Sonic Superstars",
+      "code": "SONICSUPERSTARS"
+    },
+    {
+      "name": "Spike Volleyball",
+      "code": "SPIKEVB"
+    },
+    {
+      "name": "Split Fiction",
+      "code": "SPLITFICTION"
+    },
+    {
+      "name": "Spongebob Squarepants: Battle For Bikini Bottom - Rehydrated",
+      "code": "SBSPBFBBR"
+    },
+    {
+      "name": "Star Wars Jedi Fallen Order",
+      "code": "JEDIFALLEN"
+    },
+    {
+      "name": "Star Wars Jedi: Survivor",
+      "code": "JEDISURVIVOR"
+    },
+    {
+      "name": "Stray",
+      "code": "STRAY"
+    },
+    {
+      "name": "Stumble Guys",
+      "code": "STUMBLEGUYS"
+    },
+    {
+      "name": "Super Mega Baseball 4",
+      "code": "SMB4"
+    },
+    {
+      "name": "Swordsman Vr",
+      "code": "SWORDSMANVR"
+    },
+    {
+      "name": "Tekken 7",
+      "code": "TEKKEN7"
+    },
+    {
+      "name": "Tekken 8",
+      "code": "TEKKEN8"
+    },
+    {
+      "name": "The Crew 2",
+      "code": "THECREW2"
+    },
+    {
+      "name": "The Evil Within 2",
+      "code": "TEW2"
+    },
+    {
+      "name": "The Last of Us",
+      "code": "TLOU"
+    },
+    {
+      "name": "The Last of Us Part I",
+      "code": "TLOUP1"
+    },
+    {
+      "name": "The Last of Us Part II",
+      "code": "TLOUP2"
+    },
+    {
+      "name": "The Last of Us Part II Remastered",
+      "code": "TLOUP2R"
+    },
+    {
+      "name": "The Last of Us Remastered",
+      "code": "TLOUR"
+    },
+    {
+      "name": "The Sims 4",
+      "code": "SIMS4"
+    },
+    {
+      "name": "The Warriors",
+      "code": "THEWARRIORS"
+    },
+    {
+      "name": "Tom Clancy'S Rainbow Six Siege X",
+      "code": "R6SIEGEX"
+    },
+    {
+      "name": "Tony Hawk'S Downhill Jam",
+      "code": "THDJ"
+    },
+    {
+      "name": "Topspin 2K25",
+      "code": "TOPSPIN2K25"
+    },
+    {
+      "name": "Trackmania",
+      "code": "TRACKMANIA"
+    },
+    {
+      "name": "Ufl",
+      "code": "UFL"
+    },
+    {
+      "name": "Ultrawings 2",
+      "code": "ULTRAWINGS2"
+    },
+    {
+      "name": "Uncharted: Legacy of Thieves Collection",
+      "code": "UNCHARTEDLOT"
+    },
+    {
+      "name": "Unravel Two",
+      "code": "UNRAVEL2"
+    },
+    {
+      "name": "Valorant",
+      "code": "VALORANT"
+    },
+    {
+      "name": "Vampire: the Masquerade",
+      "code": "VAMPIRETM"
+    },
+    {
+      "name": "Watch Dogs 2",
+      "code": "WATCHDOGS2"
+    },
+    {
+      "name": "Watch Dogs: Legion",
+      "code": "WATCHDOGSLEGION"
+    },
+    {
+      "name": "Word Wheel By Powgi",
+      "code": "WORDWHEEL"
+    },
+    {
+      "name": "World of Tanks Modern Armor",
+      "code": "WOTMA"
+    },
+    {
+      "name": "Wrc 9 Fia World Rally Championship",
+      "code": "WRC9"
+    },
+    {
+      "name": "Wwe 2K Battlegrounds",
+      "code": "WWEBG"
+    },
+    {
+      "name": "Wwe 2K23",
+      "code": "WWE2K23"
+    },
+    {
+      "name": "Wwe 2K24",
+      "code": "WWE2K24"
+    },
+    {
+      "name": "Wwe 2K25",
+      "code": "WWE2K25"
+    }
+  ],
+  "rooms": [
+    {
+      "name": "Reguler PS4 1",
+      "games": [
+        "PES2021",
+        "EFOOTBALL",
+        "ITT",
+        "MOVINGOUT",
+        "OC2",
+        "UNRAVEL2",
+        "UFC4",
+        "HWU",
+        "NBA2K24",
+        "INJUSTICE2",
+        "ROBLOX",
+        "GTAV",
+        "CTRNF",
+        "AWO",
+        "NSUNS4"
+      ]
+    },
+    {
+      "name": "Reguler PS4 2",
+      "games": [
+        "FC26",
+        "FC25",
+        "EFOOTBALL",
+        "PES2021",
+        "NBA2K25",
+        "WWE2K25",
+        "MKXL",
+        "TEKKEN7",
+        "SPIKEVB",
+        "RE6",
+        "LEGOMARVELAV",
+        "M25",
+        "ITT",
+        "AWO",
+        "UNRAVEL2",
+        "OC2",
+        "MOVINGOUT2",
+        "CTRNF",
+        "UFC4",
+        "HWU"
+      ]
+    },
+    {
+      "name": "Reguler PS4 3",
+      "games": [
+        "FC25",
+        "NBA2K25",
+        "PES2021",
+        "EFOOTBALL",
+        "WWE2K25",
+        "ACVALHALLA",
+        "GOWR",
+        "ITT",
+        "AWO",
+        "CTRNF",
+        "NSUNS4",
+        "SLEEPINGDOGS",
+        "FARCRY6",
+        "GTAV",
+        "LIS2",
+        "CODBO3",
+        "TEW2",
+        "TSUBASA",
+        "DAYSGONE",
+        "DW9",
+        "LEGOMARVELAV",
+        "GOW",
+        "BLOODBORNE",
+        "ROBLOX",
+        "ACODYSSEY"
+      ]
+    },
+    {
+      "name": "Reguler PS4 4",
+      "games": [
+        "EFOOTBALL",
+        "FC25",
+        "NBA2K25",
+        "WWE2K23",
+        "AWO",
+        "ITT",
+        "MOVINGOUT",
+        "UNRAVEL2",
+        "CTRNF",
+        "TEKKEN7",
+        "HWU",
+        "M23",
+        "RDR2",
+        "NSUNS4",
+        "ROBLOX"
+      ]
+    },
+    {
+      "name": "Reguler PS4 5",
+      "games": [
+        "FC26",
+        "PES2026",
+        "M25",
+        "NBA2K26",
+        "WWE2K24",
+        "M24",
+        "CTRNF",
+        "UNRAVEL2",
+        "OCAYCE",
+        "MOVINGOUT2",
+        "AWO",
+        "TEKKEN7",
+        "MK11",
+        "NSUNS4",
+        "RDR2",
+        "SPIDERMAN",
+        "CODBO6",
+        "LITTLENIGHTMARES",
+        "LNII",
+        "TLOU",
+        "MXGP3",
+        "GTAV",
+        "SPIDERMANMM",
+        "ACVALHALLA",
+        "NFSHEAT",
+        "RE4",
+        "GOT",
+        "GOWR",
+        "CODMWR"
+      ]
+    },
+    {
+      "name": "Reguler PS4 6",
+      "games": [
+        "FC26",
+        "PES2026",
+        "NBA2K25",
+        "M25",
+        "MK11",
+        "ITT",
+        "AWO",
+        "OCAYCE",
+        "UNRAVEL2",
+        "CODMWR",
+        "WWE2K24",
+        "MOVINGOUT2",
+        "CTRNF",
+        "NSUNS4",
+        "TEKKEN7",
+        "LITTLENIGHTMARES",
+        "LNII",
+        "SPIDERMAN",
+        "HITMAN3",
+        "RDR",
+        "GTAV",
+        "SPIDERMANMM",
+        "NFSHEAT",
+        "GOT",
+        "GOWR",
+        "RE4"
+      ]
+    },
+    {
+      "name": "Reguler PS4 7",
+      "games": [
+        "PES2026",
+        "TEKKEN7",
+        "WWE2K24",
+        "CTRNF",
+        "NSUNS4",
+        "ITT",
+        "ESESF26",
+        "M25",
+        "CODMWR",
+        "MK11U",
+        "SPIDERMAN",
+        "MOVINGOUT2",
+        "NBA2K26",
+        "GTAV",
+        "BULLY"
+      ]
+    },
+    {
+      "name": "Reguler PS4 8",
+      "games": [
+        "ESESF26",
+        "PES2026",
+        "NBA2K26",
+        "WWE2K25",
+        "M25",
+        "CODMWR",
+        "CTRNF",
+        "NSUNS4",
+        "CODBO6",
+        "THDJ",
+        "REVILLAGE",
+        "RE7BH",
+        "GOWR",
+        "SPIDERMANMM",
+        "GTAV",
+        "NFSHEAT",
+        "THEWARRIORS"
+      ]
+    },
+    {
+      "name": "Premium 1",
+      "games": [
+        "AWO",
+        "ASPHALT",
+        "ASTROSPLAYROOM",
+        "BLOODBORNE",
+        "CODGHOSTS",
+        "DPC3DW",
+        "CTRNF(TRNF",
+        "DOGFIGHTER",
+        "FC24",
+        "ESESF25",
+        "ESESF26",
+        "EFOOTBALL",
+        "F124",
+        "FFXVI",
+        "GTAV",
+        "GRAVEL",
+        "INJUSTICE2LE",
+        "ITT",
+        "LITTLENIGHTMARES",
+        "LNII",
+        "SPIDERMAN",
+        "M23",
+        "M25",
+        "MOVINGOUT",
+        "NSUNS4",
+        "NBA2K25",
+        "NFSUNBOUND",
+        "OCAYCE",
+        "RDR2",
+        "RE6",
+        "RIDERSREPUBLIC",
+        "ROCKETLEAGUE",
+        "SPIKEVB",
+        "SPLITFICTION",
+        "STUMBLEGUYS",
+        "TLOUP2",
+        "TLOUR",
+        "SIMS4",
+        "R6SIEGEX",
+        "TRACKMANIA",
+        "VAMPIRETM",
+        "WRC9",
+        "WWE2K24"
+      ]
+    },
+    {
+      "name": "Premium 2",
+      "games": [
+        "AWO",
+        "AC7SU",
+        "ASTROSPLAYROOM",
+        "BF4",
+        "CTRNF(TRNF",
+        "DMC5",
+        "ESESF25",
+        "ESESF26",
+        "GTAV",
+        "HWU",
+        "INJUSTICE2LE",
+        "ITT",
+        "LEGOMARVELAV",
+        "SPIDERMAN",
+        "SPIDERMAN2",
+        "MK11U",
+        "M25",
+        "MOVINGOUT2",
+        "NSUNS4",
+        "NBA2K24",
+        "NFSHEAT",
+        "OC2",
+        "OCAYCE",
+        "RE6",
+        "RIDERSREPUBLIC",
+        "ROBLOX",
+        "SPIKEVB",
+        "SPLITFICTION",
+        "TEKKEN7",
+        "TLOUP2",
+        "TLOUR",
+        "UNRAVEL2",
+        "WWE2K24",
+        "WWE2K25"
+      ]
+    },
+    {
+      "name": "Executive 1",
+      "games": [
+        "AWO",
+        "ASTROSPLAYROOM",
+        "BF2024",
+        "TSUBASA",
+        "CTRNF(TRNF",
+        "DEADSPACE",
+        "DIRTR2",
+        "DIRT5",
+        "FC24",
+        "ESESF25",
+        "ESESF26",
+        "EFOOTBALL",
+        "ESESU4",
+        "F124",
+        "FIGMENT2",
+        "FORTNITE",
+        "GENSHIN",
+        "GRIDLEGENDS",
+        "HELLONEIGHBOR",
+        "HOW2ESCAPE",
+        "ITT",
+        "LITTLENIGHTMARES",
+        "MADDEN25",
+        "MK1",
+        "M24",
+        "MOVINGOUT",
+        "MXATVLEGENDS",
+        "NSUNS4",
+        "NBA2K25",
+        "NFSHEAT",
+        "NHL24",
+        "OCAYCE",
+        "PVZGW2",
+        "RDR2",
+        "RE4",
+        "RIDERSREPUBLIC",
+        "ROBLOX",
+        "ROCKETLEAGUE",
+        "SONICSUPERSTARS",
+        "SPIKEVB",
+        "SPLITFICTION",
+        "SBSPBFBBR",
+        "JEDISURVIVOR",
+        "STUMBLEGUYS",
+        "TEKKEN8",
+        "TLOUP1",
+        "TLOUP2",
+        "TOPSPIN2K25",
+        "UNCHARTEDLOT",
+        "UNRAVEL2",
+        "WATCHDOGS2",
+        "WWEBG",
+        "WWE2K25"
+      ]
+    },
+    {
+      "name": "Executive 2",
+      "games": [
+        "AWO",
+        "ASPHALT",
+        "ASTROSPLAYROOM",
+        "TSUBASA",
+        "CTRNF(TRNF",
+        "DEADSPACE",
+        "ESESF25",
+        "ESESF26",
+        "ESESU4",
+        "EFOOTBALL",
+        "F124",
+        "FIGMENT",
+        "FIGMENT2",
+        "FORTNITE",
+        "GENSHIN",
+        "GRIDLEGENDS",
+        "HELLONEIGHBOR",
+        "HOW2ESCAPE",
+        "INJUSTICE2LE",
+        "ITT",
+        "LITTLENIGHTMARES",
+        "MADDEN25",
+        "SPIDERMAN2",
+        "MK1",
+        "M24",
+        "MOVINGOUT",
+        "MXATVLEGENDS",
+        "NSUNS4",
+        "NBA2K25",
+        "NHL25",
+        "OCAYCE",
+        "RDR2",
+        "RE4",
+        "RIDERSREPUBLIC",
+        "ROBLOX",
+        "ROCKETLEAGUE",
+        "SONICSUPERSTARS",
+        "SPIKEVB",
+        "SPLITFICTION",
+        "SBSPBFBBR",
+        "STUMBLEGUYS",
+        "TEKKEN8",
+        "TLOUP1",
+        "TLOUP2R",
+        "SIMS4",
+        "TOPSPIN2K25",
+        "UNCHARTEDLOT",
+        "WATCHDOGS2",
+        "WWEBG",
+        "WWE2K25"
+      ]
+    },
+    {
+      "name": "Executive 3",
+      "games": [
+        "AWO",
+        "ASPHALT",
+        "ASTROSPLAYROOM",
+        "TSUBASA",
+        "CHESSROYAL",
+        "DEADSPACE",
+        "DIRT5",
+        "ESESF25",
+        "ESESF26",
+        "CFOOTBALL25",
+        "ESESU4",
+        "EFOOTBALL",
+        "F124",
+        "FORTNITE",
+        "GEARCLUB2UE",
+        "GENSHIN",
+        "HELLONEIGHBOR",
+        "HWU2",
+        "HOW2ESCAPE",
+        "IMMORTALS",
+        "INJUSTICE2LE",
+        "ITT",
+        "JWE2",
+        "LNII",
+        "MADDEN25",
+        "SPIDERMAN",
+        "SPIDERMANMM",
+        "MONOPOLYMADNESS",
+        "M24",
+        "MOVINGOUT",
+        "NSUNS4",
+        "NBA2KPG2",
+        "NBA2K25",
+        "NFS",
+        "NFSHEAT",
+        "NHL25",
+        "OCAYCE",
+        "RDR2",
+        "RIDERSREPUBLIC",
+        "ROBLOX",
+        "ROCKETLEAGUE",
+        "SONICSUPERSTARS",
+        "SPIKEVB",
+        "SPLITFICTION",
+        "SBSPBFBBR",
+        "JEDISURVIVOR",
+        "STRAY",
+        "STUMBLEGUYS",
+        "TEKKEN8",
+        "TLOUP1",
+        "TLOUP2R",
+        "SIMS4",
+        "UFL",
+        "UNRAVEL2",
+        "WATCHDOGS2",
+        "WORDWHEEL",
+        "WWE2K25"
+      ]
+    },
+    {
+      "name": "Executive 4",
+      "games": [
+        "ASPHALTLEGENDS",
+        "ASTROSPLAYROOM",
+        "TSUBASA",
+        "CHESSROYAL",
+        "DELTAFORCE",
+        "ESESF25",
+        "ESESF26",
+        "ESESU4",
+        "EFOOTBALL",
+        "F124",
+        "FORTNITE",
+        "GEARCLUB2UE",
+        "GENSHIN",
+        "HELLONEIGHBOR2",
+        "HWU2",
+        "HOW2ESCAPE",
+        "INJUSTICE2LE",
+        "ITT",
+        "JWE2",
+        "LNII",
+        "SPIDERMAN",
+        "SPIDERMANMM",
+        "MONOPOLYMADNESS",
+        "M24",
+        "MOVINGOUT",
+        "NSUNS4",
+        "NBA2KPG2",
+        "NBA2K25",
+        "NFS",
+        "OCAYCE",
+        "RDR2",
+        "RIDERSREPUBLIC",
+        "ROBLOX",
+        "ROCKETLEAGUE",
+        "SILENTHILLTSM",
+        "SONICSUPERSTARS",
+        "SPIKEVB",
+        "SPLITFICTION",
+        "SBSPBFBBR",
+        "STRAY",
+        "STUMBLEGUYS",
+        "TEKKEN8",
+        "TLOUP1",
+        "TLOUP2R",
+        "SIMS4",
+        "UNRAVEL2",
+        "VALORANT",
+        "WATCHDOGS2",
+        "WORDWHEEL",
+        "WWE2K25"
+      ]
+    },
+    {
+      "name": "Executive 5",
+      "games": [
+        "AWO",
+        "ABVRIOP",
+        "ASTROSPLAYROOM",
+        "BFV",
+        "TSUBASA",
+        "CQII",
+        "CTRNF",
+        "CREEDRTGCE",
+        "CROSSFIRESS",
+        "DIRT5",
+        "ESESF25",
+        "ESESF26",
+        "CFOOTBALL25",
+        "ESESU4",
+        "EFOOTBALL",
+        "F124",
+        "FIGMENT",
+        "FIGMENT2",
+        "HNSEARCHRESCUE",
+        "HORRORADVR",
+        "HWU2",
+        "IMMORTALS",
+        "ITT",
+        "LITTLENIGHTMARES",
+        "MADDEN25",
+        "MK1",
+        "MOVINGOUT",
+        "NSUNS4",
+        "NBA2KPG2",
+        "NBA2K25",
+        "NHL25",
+        "OCAYCE",
+        "RE4",
+        "RE6",
+        "RIDERSREPUBLIC",
+        "ROBLOX",
+        "SPIKEVB",
+        "SPLITFICTION",
+        "SBSPBFBBR",
+        "JEDISURVIVOR",
+        "TEKKEN8",
+        "ULTRAWINGS2",
+        "UNRAVEL2",
+        "WWEBG",
+        "WWE2K25"
+      ]
+    },
+    {
+      "name": "Diamond",
+      "games": [
+        "AWO",
+        "ABVRIOP",
+        "ARIZONAS2",
+        "ASTROSPLAYROOM",
+        "BEATSABER",
+        "TSUBASA",
+        "CQII",
+        "CTRNF(TRNF",
+        "CREEDRTGCE",
+        "CROSSFIRESS",
+        "DELTAFORCE",
+        "DIRT5",
+        "DIRTR2",
+        "ESESF25",
+        "ESESF26",
+        "ESESU4",
+        "PES2021",
+        "EFOOTBALL",
+        "F124",
+        "FIGMENT",
+        "FIGMENT2",
+        "GENSHIN",
+        "GUITARHERO",
+        "HELLONEIGHBOR",
+        "HORRORADVR",
+        "HWU2",
+        "IMMORTALS",
+        "ITT",
+        "KIWF",
+        "LITTLENIGHTMARES",
+        "MADDEN25",
+        "MADISONVR",
+        "MK1",
+        "MOVINGOUT",
+        "NSUNS4",
+        "NBA2KPG2",
+        "NBA2K25",
+        "NHL25",
+        "OPERATIONSERPENS",
+        "OCAYCE",
+        "RE6",
+        "RE4",
+        "RIDERSREPUBLIC",
+        "ROBLOX",
+        "SPIKEVB",
+        "SPLITFICTION",
+        "SBSPBFBBR",
+        "JEDISURVIVOR",
+        "SWORDSMANVR",
+        "TEKKEN7",
+        "TEKKEN8",
+        "ULTRAWINGS2",
+        "UNRAVEL2",
+        "WWEBG",
+        "WWE2K25"
+      ]
+    },
+    {
+      "name": "Reguler PS5 1",
+      "games": [
+        "AWO",
+        "AC7SU",
+        "ACVALHALLA",
+        "BMWUKONG",
+        "BLOODBORNE",
+        "CTRNF(TRNF",
+        "DIRT5",
+        "DBZKAKAROT",
+        "DWORIGINS",
+        "ESESF25",
+        "ESESF26",
+        "ESESU4",
+        "EFOOTBALL",
+        "F124",
+        "FARCRY6",
+        "FIGMENT",
+        "FIGMENT2",
+        "FRAGPUNK",
+        "GHOSTOFYOTEI",
+        "GTAV",
+        "HOGWARTSLEGACY",
+        "HZD",
+        "ITT",
+        "LITTLENIGHTMARES",
+        "MADDEN25",
+        "MK1",
+        "M25",
+        "MOVINGOUT",
+        "NSUNS4",
+        "NBA2K26",
+        "NHL25",
+        "OCAYCE",
+        "RE6",
+        "RE4",
+        "ROBLOX",
+        "SPLITFICTION",
+        "JEDISURVIVOR",
+        "TEKKEN8",
+        "TLOUP2",
+        "UNCHARTEDLOT",
+        "UNRAVEL2",
+        "WATCHDOGS2",
+        "WWE2K25"
+      ]
+    },
+    {
+      "name": "Reguler PS5 2",
+      "games": [
+        "AWO",
+        "AC7SU",
+        "APEX",
+        "ACVALHALLA",
+        "BMWUKONG",
+        "BLOODBORNE",
+        "CTRNF(TRNF",
+        "CYBERPUNK2077",
+        "DIRT5",
+        "DBZKAKAROT",
+        "DWORIGINS",
+        "ESESF25",
+        "ESESF26",
+        "ESESU4",
+        "EFOOTBALL",
+        "F124",
+        "FARCRY6",
+        "FIGMENT",
+        "FIGMENT2",
+        "GHOSTOFYOTEI",
+        "HZD",
+        "ITT",
+        "LITTLENIGHTMARES",
+        "MADDEN25",
+        "MK1",
+        "M25",
+        "MOVINGOUT",
+        "NSUNS4",
+        "NBA2K26",
+        "NHL25",
+        "OCAYCE",
+        "RDR2",
+        "RE4",
+        "RE6",
+        "RIDERSREPUBLIC",
+        "ROBLOX",
+        "SPLITFICTION",
+        "JEDISURVIVOR",
+        "TEKKEN8",
+        "TLOUR",
+        "UNCHARTEDLOT",
+        "UNRAVEL2",
+        "WWE2K25"
+      ]
+    },
+    {
+      "name": "Luxury 1",
+      "games": [
+        "AWO",
+        "ABVRIOP",
+        "ASTROBOT",
+        "ASTROSPLAYROOM",
+        "BEATSABER",
+        "BOOMERANGFU",
+        "CREEDRTGCE",
+        "CDH",
+        "TSUBASA",
+        "CLEANSHEET",
+        "CTRNF(TRNF",
+        "CROSSFIRESS",
+        "ESESF25",
+        "ESESF26",
+        "UFC5",
+        "ELDENRING",
+        "ENLISTED",
+        "F124",
+        "FIGMENT2",
+        "HOGWARTSLEGACY",
+        "HORIZONCOTM",
+        "HWU2",
+        "HOW2ESCAPE",
+        "ITT",
+        "SPIDERMANMM",
+        "MINECRAFT",
+        "MK1",
+        "M24",
+        "MOVINGOUT2",
+        "NSUNS4",
+        "NBA2K25",
+        "OFFTHEGRID",
+        "OCAYCE",
+        "RE4",
+        "ROCKETLEAGUE",
+        "SONICSUPERSTARS",
+        "ROBLOX",
+        "SPIKEVB",
+        "SPLITFICTION",
+        "SBSPBFBBR",
+        "STUMBLEGUYS",
+        "TEKKEN8",
+        "SIMS4",
+        "WOTMA"
+      ]
+    },
+    {
+      "name": "Luxury 2",
+      "games": [
+        "AWO",
+        "ABVRIOP",
+        "ASTROBOT",
+        "ASTROSPLAYROOM",
+        "BEATSABER",
+        "BOOMERANGFU",
+        "CDH",
+        "TSUBASA",
+        "CTRNF(TRNF",
+        "CREEDRTGCE",
+        "CROSSFIRESS",
+        "ESESF25",
+        "UFC5",
+        "ELDENRING",
+        "ENLISTED",
+        "F124",
+        "FIGMENT2",
+        "HOGWARTSLEGACY",
+        "HORIZONCOTM",
+        "HWU2",
+        "HOW2ESCAPE",
+        "ITT",
+        "MK1",
+        "M24",
+        "NSUNS4",
+        "NBA2K25",
+        "OCAYCE",
+        "RE4",
+        "ROCKETLEAGUE",
+        "SONICSUPERSTARS",
+        "SPIKEVB",
+        "SPLITFICTION",
+        "SBSPBFBBR",
+        "STUMBLEGUYS",
+        "TEKKEN8",
+        "SIMS4",
+        "WWE2K25"
+      ]
+    },
+    {
+      "name": "Luxury 3",
+      "games": [
+        "AWO",
+        "ABVRIOP",
+        "ASII",
+        "ASTROBOT",
+        "ASTROSPLAYROOM",
+        "BEATSABER",
+        "BOOMERANGFU",
+        "BULLY",
+        "CARNIVALGAMES",
+        "CGV",
+        "CTRNF(TRNF",
+        "CREEDRTG",
+        "CROSSFIRESS",
+        "DEADSPACE",
+        "DIRT5",
+        "CFOOTBALL25",
+        "F124",
+        "ESESF25",
+        "ESESF26",
+        "ESESU4",
+        "FIGMENT2",
+        "FORTNITE",
+        "HNSEARCHRESCUE",
+        "HORRORADVR",
+        "HWU2",
+        "HOW2ESCAPE",
+        "IMMORTALS",
+        "ITT",
+        "LITTLENIGHTMARES",
+        "MK1",
+        "M24",
+        "MOVINGOUT",
+        "NXBUNSC",
+        "NBA2K25",
+        "OCAYCE",
+        "RE4",
+        "ROBLOX",
+        "SONICSUPERSTARS",
+        "SPIKEVB",
+        "SPLITFICTION",
+        "SBSPBFBBR",
+        "STUMBLEGUYS",
+        "SMB4",
+        "THECREW2",
+        "SIMS4",
+        "ULTRAWINGS2",
+        "UNRAVEL2",
+        "WATCHDOGSLEGION",
+        "WWE2K24"
+      ]
+    },
+    {
+      "name": "Luxury 4",
+      "games": [
+        "AWO",
+        "ABVRIOP",
+        "ARIZONAS2",
+        "ASTROBOT",
+        "ASTROSPLAYROOM",
+        "BF2024",
+        "BEATSABER",
+        "BYE",
+        "BOOMERANGFU",
+        "BULLY",
+        "CTRNF(TRNF",
+        "CREEDRTGCE",
+        "CROSSFIRESS",
+        "DEADSPACE",
+        "DIRTR2",
+        "DIRT5",
+        "ESESF25",
+        "ESESF26",
+        "ESESU4",
+        "EFOOTBALL",
+        "F124",
+        "FIGMENT2",
+        "FORTNITE",
+        "GRIDLEGENDS",
+        "HNSEARCHRESCUE",
+        "HORRORADVR",
+        "HWU2",
+        "HOW2ESCAPE",
+        "ITT",
+        "LITTLENIGHTMARES",
+        "MADDEN25",
+        "MK1",
+        "M24",
+        "MOVINGOUT",
+        "NSUNS4",
+        "NBA2K25",
+        "OCAYCE",
+        "RE4",
+        "ROBLOX",
+        "SONICSUPERSTARS",
+        "SPIKEVB",
+        "SPLITFICTION",
+        "SBSPBFBBR",
+        "JEDISURVIVOR",
+        "JEDIFALLEN",
+        "STUMBLEGUYS",
+        "ULTRAWINGS2",
+        "UNRAVEL2",
+        "WATCHDOGS2",
+        "WWE2K25"
+      ]
+    }
+  ]
+}
